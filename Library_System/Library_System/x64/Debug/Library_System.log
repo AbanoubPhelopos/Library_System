@@ -1,6 +1,0 @@
-﻿  source.cpp
-C:\Users\pc\source\repos\Library_System\Library_System\source.cpp(235,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\pc\source\repos\Library_System\Library_System\source.cpp(376,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\pc\source\repos\Library_System\Library_System\source.cpp(243): warning C4715: 'Random_ID': not all control paths return a value
-C:\Users\pc\source\repos\Library_System\Library_System\source.cpp(365): warning C4717: 'User_Home': recursive on all control paths, function will cause runtime stack overflow
-  Library_System.vcxproj -> C:\Users\pc\source\repos\Library_System\x64\Debug\Library_System.exe
